@@ -7,8 +7,8 @@ BEGIN
 END
 
 CREATE TABLE Staging.dbo.TblsHREMESA (	
-	IDREMESA int not null,
-	FECHA_REMESA DATETIME not null,
+	IDRemesa int not null,
+	FechaRemesa DATETIME not null,
 	IDUnidadNegocio int not null , 
 	DescUnidadNegocio varchar(50) null,
 	IDEstadoRemesa int not null,

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyTCC.iml" filepath="$PROJECT_DIR$/.idea/PyTCC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../spotify_etl_poc/.idea/spotify_etl_poc.iml" filepath="$PROJECT_DIR$/../../spotify_etl_poc/.idea/spotify_etl_poc.iml" />
+    </modules>
+  </component>
+</project>
